@@ -21,7 +21,7 @@ A Minor Small project which trains the dataset of Images and afterward can be us
 => FaceRecognition :- conda install -c akode face_recognition_models
 
 
-Note: Please install opencv-contrib-python package instead of opencv-contrib as it contains the main modules and also contrib modules.
+Note: Install opencv-contrib-python package instead of opencv-contrib as it contains the main modules and also contrib modules.
 
 ## How to run code
 
