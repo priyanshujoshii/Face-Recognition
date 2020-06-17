@@ -6,7 +6,7 @@ And yml file (i.e., trainingData.yml) use temporarily which is commented in my c
 (Face Recognition using OpenCV in Python)
 
 
-## Running the tests
+## How to run code
 
 Run tester.py script on powershell or cmd to train and recogniz on training images and to predict test images:
 
