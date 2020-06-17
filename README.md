@@ -1,5 +1,6 @@
 # Face-Recognition
-A Minor Small project which trains the dataset of Images and afterward can be use for face detection of that person. I the project i used numpy, openCV and faceRecognition python packages. For front face training data i used the haarcascade_frontalface_default.xml file and yml file (i.e., trainingData.yml) temporarily.
+A Minor Small project which trains the dataset of Images and afterward can be use for face detection of that person. I the project i used numpy, openCV and faceRecognition python packages. For front face training data i used the haarcascade_frontalface_default.xml file. 
+And yml file (i.e., trainingData.yml) use temporarily which is commented in my code as we can use yml file to train data also.
 
 (Face Recognition using OpenCV in Python)
 
